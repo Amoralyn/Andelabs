@@ -1,8 +1,8 @@
 var x = 20;
 var y = 25;
 if (x===y){
-  console.log("Dumdoodles");
+  console.log("Happy Forking :) ");
 }
 else{
-  console.log("wrong answer");
+  console.log("Nice Legs!!");
 }
